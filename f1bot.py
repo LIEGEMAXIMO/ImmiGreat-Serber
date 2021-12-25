@@ -13,7 +13,7 @@ client = commands.Bot(command_prefix="//", intents=intents)
 
 status = cycle(['F1 Bot','RMX-3370', 'Made by Liege', 'Use $inspire for inspiration? LOL', 'LMX3370 😎'])
 
-key_words = ["Fuck",'fuck','FUCK','Gay','gay','pussy','Pussy','sexy','Sexy','SEXY''boobs','boob','Boobs','Boob','bitch','Bitch','dick','Dick','faggot','bsdk','madarchod','benchod','bhenchod','sex','Sex','SEX','nitro','Nitro','NITRO','onlyfans','onlyfan','Onlyfans', 'Only fans','only fan','only fans','stfu','Stfu','STFU']
+key_words = ['insert the words u wish to block']
 
 starter_prime = [":)"]
 
